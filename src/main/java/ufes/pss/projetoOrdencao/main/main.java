@@ -14,7 +14,7 @@ import ufes.pss.projetoOrdenacao.presenter.Arquivo;
 public class main {
 
     public static void main(String[] args) throws IOException {
-        String arq = "C://Users//itix//Documents//NetBeansProjects//projetoOrdenacao//teste.txt";
+        String arq = "teste.txt";
        
 
     }
